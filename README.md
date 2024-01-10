@@ -4,6 +4,8 @@ Irina M. Artemieva, President, president@egu.eu
 
 Peter van der Beek, President-elect
 
+David Fernández-Blanco, ECS Union representative, ecs@egu.eu
+
 Philippe Courtial, Executive Secretary, executive-secretary@egu.eu
 
 Alice-Agnes Gabriel, Seismology Division President, sm@egu.eu
