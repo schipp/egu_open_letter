@@ -58,18 +58,18 @@ Appendix
 	 	 	 	
 Oral presentations at EGU tend to reach a different, larger audience than poster presentations. Therefore, removing the option for ECS to give oral presentations in the sessions they convene, will reduce visibility for their own research in their research community.
 This rule can negatively affect the career development of ECS due to:
-Lower number of citations
-Fewer opportunities to establish collaborations
-Less visibility for future or ongoing job applications
-Less opportunity to convince potential reviewers for publications or proposals
+- Lower number of citations
+- Fewer opportunities to establish collaborations
+- Less visibility for future or ongoing job applications
+- Less opportunity to convince potential reviewers for publications or proposals
 
 This rule can negatively affect EGU due to:
-ECS perceive this rule as lack of appreciation for invested time and effort
-ECS may decide not convene a session again
-ECS may discourage others from convening sessions
-ECS may be discouraged from convening a session multiple years in a row, which would result in lower quality sessions organized by conveners with less experience
-Fewer interested and committed conveners in coming years, particularly among ECS
-Fewer qualified and motivated candidates for other positions within EGU in the future
+- ECS perceive this rule as lack of appreciation for invested time and effort
+- ECS may decide not convene a session again
+- ECS may discourage others from convening sessions
+- ECS may be discouraged from convening a session multiple years in a row, which would result in lower quality sessions organized by conveners with less experience
+- Fewer interested and committed conveners in coming years, particularly among ECS
+- Fewer qualified and motivated candidates for other positions within EGU in the future
 
 Survey results:
 ![survey](survey.png)
