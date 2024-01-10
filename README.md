@@ -1,19 +1,12 @@
 To
 
-Irina M. Artemieva
-President
-president@egu.eu
+Irina M. Artemieva, President, president@egu.eu
 
-Peter van der Beek
-President-elect
+Peter van der Beek, President-elect
 
-Philippe Courtial
-Executive Secretary
-executive-secretary@egu.eu
+Philippe Courtial, Executive Secretary, executive-secretary@egu.eu
 
-Alice-Agnes Gabriel
-Seismology Division President
-sm@egu.eu
+Alice-Agnes Gabriel, Seismology Division President, sm@egu.eu
 
 
 ## Regarding the EGU convener guidelines and rules
